@@ -1,2 +1,2 @@
-HackBulgaria-homework1
+HackBulgaria
 ======================
